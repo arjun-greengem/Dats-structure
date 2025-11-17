@@ -63,3 +63,5 @@ void serch()
                             }
                 if(flag==1)
                   printf("the element is founded at %d position,count);
+
+                    
